@@ -1,4 +1,4 @@
-#clode Repo
+#cloned Repo
 Please note this is a clone reop the oringal README.md is below. 
 The only change thus far is to main.py is custm and gitignore is updated to ignore constat.py. Please recreate this file to autheticate your API requests. 
 
